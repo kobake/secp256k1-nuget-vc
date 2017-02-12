@@ -20,7 +20,7 @@
         <authors>Pieter Wuille and secp256k1 contributors</authors>
         <owners>kobake</owners>
         <licenseUrl>https://raw.githubusercontent.com/bitcoin/secp256k1/master/COPYING</licenseUrl>
-        <projectUrl>https://github.com/kobake/secp256k1-nuget-vs140</projectUrl>
+        <projectUrl>https://github.com/kobake/secp256k1-nuget-msvc140</projectUrl>
         <iconUrl>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/EFF_version_of_NSA_logo.jpg/200px-EFF_version_of_NSA_logo.jpg</iconUrl>
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <developmentDependency>false</developmentDependency>
