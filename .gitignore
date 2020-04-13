@@ -56,3 +56,4 @@ libsecp256k1.pc
 *.user
 
 .vs
+*.VC.db
