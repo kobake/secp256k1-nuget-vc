@@ -13,7 +13,7 @@
         <owners>kobake</owners>
         <license type="expression">MIT</license>
         <projectUrl>https://github.com/kobake/secp256k1-nuget-vc</projectUrl>
-        <iconUrl>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/EFF_version_of_NSA_logo.jpg/200px-EFF_version_of_NSA_logo.jpg</iconUrl>
+        <icon>packageIcon.jpg</icon>
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <developmentDependency>false</developmentDependency>
         <description>Optimized C library for EC operations on curve secp256k1.</description>
@@ -25,6 +25,9 @@
         </dependencies>
     </metadata>
     <files>
+        <!-- package resource -->
+        <file src="packageIcon.jpg" target="" />
+
         <!-- include -->
                 
         <file src="..\..\include\*.h" target="build\native\include" />
