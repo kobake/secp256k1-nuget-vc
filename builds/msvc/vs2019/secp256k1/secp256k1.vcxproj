@@ -76,16 +76,16 @@
     <Option-recovery>true</Option-recovery>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\packaging\nuget\gmp\package.bat" />
-    <None Include="..\..\..\..\packaging\nuget\gmp\package.config" />
-    <None Include="..\..\..\..\packaging\nuget\package.bat" />
-    <None Include="..\..\..\..\packaging\nuget\package.config" />
-    <None Include="..\..\..\..\packaging\nuget\package.gsl" />
-    <None Include="..\..\..\..\packaging\nuget\package.nuspec" />
-    <None Include="..\..\..\..\packaging\nuget\package.targets" />
+    <None Include="..\..\..\..\packaging\nuget-vc142\gmp\package.bat" />
+    <None Include="..\..\..\..\packaging\nuget-vc142\gmp\package.config" />
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.bat" />
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.config" />
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.gsl" />
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.nuspec" />
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.targets" />
   </ItemGroup>
   <ItemGroup>
-    <Xml Include="..\..\..\..\packaging\nuget\package.xml" />
+    <Xml Include="..\..\..\..\packaging\nuget-vc142\package.xml" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\contrib\lax_der_parsing.h" />

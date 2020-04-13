@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\packaging\nuget\package.gsl">
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.gsl">
       <Filter>packaging</Filter>
     </None>
-    <None Include="..\..\..\..\packaging\nuget\package.nuspec">
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.nuspec">
       <Filter>packaging</Filter>
     </None>
-    <None Include="..\..\..\..\packaging\nuget\package.targets">
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.targets">
       <Filter>packaging</Filter>
     </None>
-    <None Include="..\..\..\..\packaging\nuget\package.bat">
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.bat">
       <Filter>packaging</Filter>
     </None>
-    <None Include="..\..\..\..\packaging\nuget\package.config">
+    <None Include="..\..\..\..\packaging\nuget-vc142\package.config">
       <Filter>packaging</Filter>
     </None>
-    <None Include="..\..\..\..\packaging\nuget\gmp\package.config">
+    <None Include="..\..\..\..\packaging\nuget-vc142\gmp\package.config">
       <Filter>packaging\gmp</Filter>
     </None>
-    <None Include="..\..\..\..\packaging\nuget\gmp\package.bat">
+    <None Include="..\..\..\..\packaging\nuget-vc142\gmp\package.bat">
       <Filter>packaging\gmp</Filter>
     </None>
   </ItemGroup>
@@ -211,7 +211,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Xml Include="..\..\..\..\packaging\nuget\package.xml">
+    <Xml Include="..\..\..\..\packaging\nuget-vc142\package.xml">
       <Filter>packaging</Filter>
     </Xml>
   </ItemGroup>

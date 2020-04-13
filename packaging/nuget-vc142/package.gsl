@@ -20,12 +20,12 @@
         <authors>Pieter Wuille and secp256k1 contributors</authors>
         <owners>kobake</owners>
         <licenseUrl>https://raw.githubusercontent.com/bitcoin/secp256k1/master/COPYING</licenseUrl>
-        <projectUrl>https://github.com/kobake/secp256k1-vc141-nuget</projectUrl>
+        <projectUrl>https://github.com/kobake/secp256k1-nuget-vc</projectUrl>
         <iconUrl>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/EFF_version_of_NSA_logo.jpg/200px-EFF_version_of_NSA_logo.jpg</iconUrl>
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <developmentDependency>false</developmentDependency>
         <description>Optimized C library for EC operations on curve secp256k1.</description>
-        <summary>Secp256k1 library package for Visual Studio 2017 C++ (msvc141) project. This package is experimental, so use at your own risk.</summary>
+        <summary>Secp256k1 library package for Visual Studio 2019 C++ (vc142) project. This package is experimental, so use at your own risk.</summary>
         <releaseNotes>https://raw.github.com/bitcoin/secp256k1/master/README.md</releaseNotes>
         <copyright>(c) 2013 Pieter Wuille (attribution required)</copyright>
         <tags>native, secp256k1, elliptic, curve, ecdsa, C, C++</tags>
