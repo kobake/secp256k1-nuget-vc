@@ -3,9 +3,9 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{148600EA-561B-4C78-A80A-2EB5046D0420}</ProjectGuid>
     <ProjectName>secp256k1</ProjectName>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <NuGetPackageImportStamp>4a417148</NuGetPackageImportStamp>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="DebugDLL|Win32">
